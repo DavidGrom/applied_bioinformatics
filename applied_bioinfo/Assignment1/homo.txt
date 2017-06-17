@@ -1,0 +1,95 @@
+Q60495	A4_CAVPO	reviewed	Amyloid beta A4 protein (ABPP) (APP) (Alzheimer disease amyloid A4 protein homolog) [Cleaved into: N-APP; Soluble APP-alpha (S-APP-alpha); Soluble APP-beta (S-APP-beta); CTF-alpha; CTF-beta; Beta-amyloid protein 42 (Beta-APP42); Beta-amyloid protein 40 (Beta-APP40); P3(42); P3(40); C80; Gamma-secretase C-terminal fragment 59 (Gamma-CTF(59)); Gamma-secretase C-terminal fragment 57 (Gamma-CTF(57)); C31]	APP	Cavia porcellus (Guinea pig)	770
+P53601	A4_MACFA	reviewed	Amyloid beta A4 protein (ABPP) (APP) (Alzheimer disease amyloid A4 protein homolog) [Cleaved into: N-APP; Soluble APP-alpha (S-APP-alpha); Soluble APP-beta (S-APP-beta); C99; Beta-amyloid protein 42 (Beta-APP42); Beta-amyloid protein 40 (Beta-APP40); C83; P3(42); P3(40); C80; Gamma-secretase C-terminal fragment 59 (Gamma-CTF(59)); Gamma-secretase C-terminal fragment 57 (Gamma-CTF(57)); Gamma-secretase C-terminal fragment 50 (Gamma-CTF(50)); C31]	APP QccE-15949	Macaca fascicularis (Crab-eating macaque) (Cynomolgus monkey)	770
+P12023	A4_MOUSE	reviewed	Amyloid beta A4 protein (ABPP) (APP) (Alzheimer disease amyloid A4 protein homolog) (Amyloidogenic glycoprotein) (AG) [Cleaved into: N-APP; Soluble APP-alpha (S-APP-alpha); Soluble APP-beta (S-APP-beta); C99 (APP-C99); Beta-amyloid protein 42 (Beta-APP42); Beta-amyloid protein 40 (Beta-APP40); C83; P3(42); P3(40); C80; Gamma-secretase C-terminal fragment 59 (APP-C59) (Amyloid intracellular domain 59) (AID(59)) (Gamma-CTF(59)); Gamma-secretase C-terminal fragment 57 (APP-C57) (Amyloid intracellular domain 57) (AID(57)) (Gamma-CTF(57)); Gamma-secretase C-terminal fragment 50 (Amyloid intracellular domain 50) (AID(50)) (Gamma-CTF(50)); C31]	App	Mus musculus (Mouse)	770
+Q5IS80	A4_PANTR	reviewed	Amyloid beta A4 protein (ABPP) (APP) (Alzheimer disease amyloid A4 protein homolog) [Cleaved into: N-APP; Soluble APP-alpha (S-APP-alpha); Soluble APP-beta (S-APP-beta); C99; Beta-amyloid protein 42 (Beta-APP42); Beta-amyloid protein 40 (Beta-APP40); C83; P3(42); P3(40); C80; Gamma-secretase C-terminal fragment 59 (Gamma-CTF(59)); Gamma-secretase C-terminal fragment 57 (Gamma-CTF(57)); Gamma-secretase C-terminal fragment 50 (Gamma-CTF(50)); C31]	APP	Pan troglodytes (Chimpanzee)	770
+P79307	A4_PIG	reviewed	Amyloid beta A4 protein (ABPP) (APP) (Alzheimer disease amyloid A4 protein homolog) [Cleaved into: N-APP; Soluble APP-alpha (S-APP-alpha); Soluble APP-beta (S-APP-beta); C99; Beta-amyloid protein 42 (Beta-APP42); Beta-amyloid protein 40 (Beta-APP40); C83; P3(42); P3(40); C80; Gamma-secretase C-terminal fragment 59 (Gamma-CTF(59)); Gamma-secretase C-terminal fragment 57 (Gamma-CTF(57)); Gamma-secretase C-terminal fragment 50 (Gamma-CTF(50)); C31]	APP	Sus scrofa (Pig)	770
+P08592	A4_RAT	reviewed	Amyloid beta A4 protein (ABPP) (APP) (Alzheimer disease amyloid A4 protein homolog) (Amyloidogenic glycoprotein) (AG) [Cleaved into: N-APP; Soluble APP-alpha (S-APP-alpha); Soluble APP-beta (S-APP-beta); C99; Beta-amyloid protein 42 (Beta-APP42); Beta-amyloid protein 40 (Beta-APP40); C83; P3(42); P3(40); C80; Gamma-secretase C-terminal fragment 59 (Gamma-CTF(59)); Gamma-secretase C-terminal fragment 57 (Gamma-CTF(57)); Gamma-secretase C-terminal fragment 50 (Gamma-CTF(50)); C31]	App	Rattus norvegicus (Rat)	770
+Q95241	A4_SAISC	reviewed	Amyloid beta A4 protein (ABPP) (APP) (Alzheimer disease amyloid A4 protein homolog) [Cleaved into: N-APP; Soluble APP-alpha (S-APP-alpha); Soluble APP-beta (S-APP-beta); C99; Beta-amyloid protein 42 (Beta-APP42); Beta-amyloid protein 40 (Beta-APP40); C83; P3(42); P3(40); C80; Gamma-secretase C-terminal fragment 59 (Gamma-CTF(59)); Gamma-secretase C-terminal fragment 57 (Gamma-CTF(57)); Gamma-secretase C-terminal fragment 50 (Gamma-CTF(50)); C31]	APP	Saimiri sciureus (Common squirrel monkey)	751
+O43307	ARHG9_HUMAN	reviewed	Rho guanine nucleotide exchange factor 9 (Collybistin) (PEM-2 homolog) (Rac/Cdc42 guanine nucleotide exchange factor 9)	ARHGEF9 KIAA0424	Homo sapiens (Human)	516
+P60953	CDC42_HUMAN	reviewed	Cell division control protein 42 homolog (G25K GTP-binding protein)	CDC42	Homo sapiens (Human)	191
+Q9NYQ6	CELR1_HUMAN	reviewed	Cadherin EGF LAG seven-pass G-type receptor 1 (Cadherin family member 9) (Flamingo homolog 2) (hFmi2)	CELSR1 CDHF9 FMI2	Homo sapiens (Human)	3014
+Q9HCU4	CELR2_HUMAN	reviewed	Cadherin EGF LAG seven-pass G-type receptor 2 (Cadherin family member 10) (Epidermal growth factor-like protein 2) (EGF-like protein 2) (Flamingo homolog 3) (Multiple epidermal growth factor-like domains protein 3) (Multiple EGF-like domains protein 3)	CELSR2 CDHF10 EGFL2 KIAA0279 MEGF3	Homo sapiens (Human)	2923
+Q9R0M0	CELR2_MOUSE	reviewed	Cadherin EGF LAG seven-pass G-type receptor 2 (Flamingo homolog)	Celsr2	Mus musculus (Mouse)	2920
+Q9NYQ7	CELR3_HUMAN	reviewed	Cadherin EGF LAG seven-pass G-type receptor 3 (Cadherin family member 11) (Epidermal growth factor-like protein 1) (EGF-like protein 1) (Flamingo homolog 1) (hFmi1) (Multiple epidermal growth factor-like domains protein 2) (Multiple EGF-like domains protein 2)	CELSR3 CDHF11 EGFL1 FMI1 KIAA0812 MEGF2	Homo sapiens (Human)	3312
+Q04683	CXCR5_MOUSE	reviewed	C-X-C chemokine receptor type 5 (CXC-R5) (CXCR-5) (Burkitt lymphoma receptor 1 homolog) (CD antigen CD185)	Cxcr5 Blr1 Gpcr6	Mus musculus (Mouse)	374
+P34997	CXCR5_RAT	reviewed	C-X-C chemokine receptor type 5 (CXC-R5) (CXCR-5) (Burkitt lymphoma receptor 1 homolog) (Neurolymphatic receptor) (NLR) (CD antigen CD185)	Cxcr5 Blr1	Rattus norvegicus (Rat)	374
+P25106	CXCR7_HUMAN	reviewed	C-X-C chemokine receptor type 7 (CXC-R7) (CXCR-7) (Chemokine orphan receptor 1) (G-protein coupled receptor 159) (G-protein coupled receptor RDC1 homolog) (RDC-1)	CXCR7 CMKOR1 GPR159 RDC1	Homo sapiens (Human)	362
+P56485	CXCR7_MOUSE	reviewed	C-X-C chemokine receptor type 7 (CXC-R7) (CXCR-7) (Chemokine orphan receptor 1) (G-protein coupled receptor RDC1 homolog) (RDC-1)	Cxcr7 Cmkor1 Rdc1	Mus musculus (Mouse)	362
+O89039	CXCR7_RAT	reviewed	C-X-C chemokine receptor type 7 (CXC-R7) (CXCR-7) (Chemokine orphan receptor 1) (G-protein coupled receptor RDC1 homolog) (RDC-1)	Cxcr7 Cmkor1 Rdc1	Rattus norvegicus (Rat)	362
+P70259	GP143_MOUSE	reviewed	G-protein coupled receptor 143 (MOA1) (Ocular albinism type 1 protein homolog)	Gpr143 Oa1	Mus musculus (Mouse)	405
+Q54QM5	GPHR_DICDI	reviewed	Golgi pH regulator homolog (Protein GPR89)	gpr89 gphr DDB_G0283855	Dictyostelium discoideum (Slime mold)	547
+Q9Y5Y4	GPR44_HUMAN	reviewed	Putative G-protein coupled receptor 44 (Chemoattractant receptor-homologous molecule expressed on Th2 cells) (CD antigen CD294)	GPR44 CRTH2 DL1R	Homo sapiens (Human)	395
+Q9Z2J6	GPR44_MOUSE	reviewed	Putative G-protein coupled receptor 44 (Chemoattractant receptor-homologous molecule expressed on Th2 cells) (CD antigen CD294)	Gpr44 Crth2	Mus musculus (Mouse)	382
+Q6JAN0	GPR98_DANRE	reviewed	G-protein coupled receptor 98 (Monogenic audiogenic seizure susceptibility protein 1 homolog) (Very large G-protein coupled receptor 1)	gpr98 mass1 vlgr1	Danio rerio (Zebrafish) (Brachydanio rerio)	6199
+Q8WXG9	GPR98_HUMAN	reviewed	G-protein coupled receptor 98 (Monogenic audiogenic seizure susceptibility protein 1 homolog) (Usher syndrome type-2C protein) (Very large G-protein coupled receptor 1)	GPR98 KIAA0686 KIAA1943 MASS1 VLGR1	Homo sapiens (Human)	6307
+O60229	KALRN_HUMAN	reviewed	Kalirin (EC 2.7.11.1) (Huntingtin-associated protein-interacting protein) (Protein Duo) (Serine/threonine-protein kinase with Dbl- and pleckstrin homology domain)	KALRN DUET DUO HAPIP TRAD	Homo sapiens (Human)	2985
+Q9PU17	LPA11_XENLA	reviewed	Lysophosphatidic acid receptor 1-A (LPA receptor 1-A) (LPA-1-A) (Lysophosphatidic acid receptor LPA1 homolog 1) (xLPA1-1)	lpar1-a lpa1r lpa1r1	Xenopus laevis (African clawed frog)	366
+Q9PU16	LPA12_XENLA	reviewed	Lysophosphatidic acid receptor 1-B (LPA receptor 1-B) (LPA-1-B) (Lysophosphatidic acid receptor LPA1 homolog 2) (xLPA1-2)	lpar1-b lpa1r lpa1r2	Xenopus laevis (African clawed frog)	366
+O95490	LPHN2_HUMAN	reviewed	Latrophilin-2 (Calcium-independent alpha-latrotoxin receptor 2) (CIRL-2) (Latrophilin homolog 1) (Lectomedin-1)	LPHN2 KIAA0786 LEC1 LPHH1	Homo sapiens (Human)	1459
+Q99685	MGLL_HUMAN	reviewed	Monoglyceride lipase (MGL) (EC 3.1.1.23) (HU-K5) (Lysophospholipase homolog) (Lysophospholipase-like)	MGLL	Homo sapiens (Human)	303
+Q5SWX8	ODR4_HUMAN	reviewed	Protein odr-4 homolog (hODR-4) (LAG1-interacting protein) (Transactivated by transforming growth factor beta protein 1)	ODR4 C1orf27 TTG1 TTG1A	Homo sapiens (Human)	454
+Q4PJX1	ODR4_MOUSE	reviewed	Protein odr-4 homolog (mODR-4)	Odr4	Mus musculus (Mouse)	447
+Q09460	PDFR1_CAEEL	reviewed	Calcitonin receptor-like protein 1 (PDF Receptor homolog 1)	pdfr-1 seb-1 C13B9.4	Caenorhabditis elegans	546
+Q9H7P9	PKHG2_HUMAN	reviewed	Pleckstrin homology domain-containing family G member 2 (PH domain-containing family G member 2)	PLEKHG2	Homo sapiens (Human)	1386
+O94827	PKHG5_HUMAN	reviewed	Pleckstrin homology domain-containing family G member 5 (PH domain-containing family G member 5) (Guanine nucleotide exchange factor 720) (GEF720)	PLEKHG5 KIAA0720	Homo sapiens (Human)	1062
+Q9HC23	PROK2_HUMAN	reviewed	Prokineticin-2 (PK2) (Protein Bv8 homolog)	PROK2 BV8	Homo sapiens (Human)	129
+Q13635	PTC1_HUMAN	reviewed	Protein patched homolog 1 (PTC) (PTC1)	PTCH1 PTCH	Homo sapiens (Human)	1447
+Q9Y6C5	PTC2_HUMAN	reviewed	Protein patched homolog 2 (PTC2)	PTCH2 UNQ560/PRO1121/PRO57079	Homo sapiens (Human)	1203
+Q8BGE9	RL3R1_MOUSE	reviewed	Relaxin-3 receptor 1 (RLN3 receptor 1) (G protein-coupled receptor SALPR homolog) (Relaxin family peptide receptor 3)	Rxfp3 Rln3r1 Salpr	Mus musculus (Mouse)	472
+O42224	SMO_CHICK	reviewed	Smoothened homolog (SMO) (Fragment)	SMO SMOH	Gallus gallus (Chicken)	794
+Q99835	SMO_HUMAN	reviewed	Smoothened homolog (SMO) (Protein Gx)	SMO SMOH	Homo sapiens (Human)	787
+P56726	SMO_MOUSE	reviewed	Smoothened homolog (SMO)	Smo Smoh	Mus musculus (Mouse)	793
+P97698	SMO_RAT	reviewed	Smoothened homolog (SMO)	Smo Smoh	Rattus norvegicus (Rat)	793
+Q07889	SOS1_HUMAN	reviewed	Son of sevenless homolog 1 (SOS-1)	SOS1	Homo sapiens (Human)	1333
+Q07890	SOS2_HUMAN	reviewed	Son of sevenless homolog 2 (SOS-2)	SOS2	Homo sapiens (Human)	1332
+P16849	UL33_HCMVA	reviewed	G-protein coupled receptor homolog UL33	UL33	Human cytomegalovirus (strain AD169) (HHV-5) (Human herpesvirus 5)	412
+P52380	UL33_HHV6U	reviewed	G-protein coupled receptor homolog U12	U12 P1RF1	Human herpesvirus 6A (strain Uganda-1102) (HHV-6 variant A) (Human B lymphotropic virus)	347
+P52381	UL33_HHV7J	reviewed	G-protein coupled receptor homolog U12	U12	Human herpesvirus 7 (strain JI) (HHV-7) (Human T lymphotropic virus)	346
+Q83207	UL33_MCMVS	reviewed	G-protein coupled receptor homolog M33		Murine cytomegalovirus (strain Smith)	377
+O12000	UL33_RCMVM	reviewed	G-protein coupled receptor homolog R33		Rat cytomegalovirus (strain Maastricht)	387
+P09703	US27_HCMVA	reviewed	G-protein coupled receptor homolog US27 (HHRF2)	US27	Human cytomegalovirus (strain AD169) (HHV-5) (Human herpesvirus 5)	362
+P69332	US28_HCMVA	reviewed	G-protein coupled receptor homolog US28 (HHRF3)	US28	Human cytomegalovirus (strain AD169) (HHV-5) (Human herpesvirus 5)	354
+P69333	US28_HCMVT	reviewed	G-protein coupled receptor homolog US28 (HHRF3)	US28	Human cytomegalovirus (strain Towne) (HHV-5) (Human herpesvirus 5)	354
+Q9J5I0	V021_FOWPV	reviewed	G-protein coupled receptor homolog FPV021	FPV021	Fowlpox virus (FPV)	320
+Q9J5H4	V027_FOWPV	reviewed	G-protein coupled receptor homolog FPV027	FPV027	Fowlpox virus (FPV)	336
+Q9J529	V206_FOWPV	reviewed	G-protein coupled receptor homolog FPV206	FPV206	Fowlpox virus (FPV)	308
+P32229	VC03_SWPVK	reviewed	G-protein coupled receptor homolog C3	C3L	Swinepox virus (strain Kasza) (SWPV)	269
+Q98146	VG74_HHV8	reviewed	G-protein coupled receptor homolog 74	74	Human herpesvirus 8 (HHV-8) (Kaposi's sarcoma-associated herpesvirus)	342
+Q01035	VG74_SHV21	reviewed	G-protein coupled receptor homolog ECRF3	74 ECRF3	Saimiriine herpesvirus 2 (strain 11) (SaHV-2) (Herpesvirus saimiri)	321
+Q08520	VK02_SWPVK	reviewed	G-protein coupled receptor homolog K2	K2R	Swinepox virus (strain Kasza) (SWPV)	370
+Q86917	VQ3L_SHEVK	reviewed	G-protein coupled receptor homolog Q2/3L	Q2/3L	Sheeppox virus (strain KS-1) (SPPV) (Capripoxvirus (strain KS-1))	381
+P52382	VU51_HHV6U	reviewed	G-protein coupled receptor homolog U51	U51 XKRF1	Human herpesvirus 6A (strain Uganda-1102) (HHV-6 variant A) (Human B lymphotropic virus)	301
+P52542	VU51_HHV6Z	reviewed	G-protein coupled receptor homolog U51	U51 KA12R	Human herpesvirus 6B (strain Z29) (HHV-6 variant B) (Human B lymphotropic virus)	301
+P52383	VU51_HHV7J	reviewed	G-protein coupled receptor homolog U51	U51	Human herpesvirus 7 (strain JI) (HHV-7) (Human T lymphotropic virus)	294
+P04628	WNT1_HUMAN	reviewed	Proto-oncogene Wnt-1 (Proto-oncogene Int-1 homolog)	WNT1 INT1	Homo sapiens (Human)	370
+P56703	WNT3_HUMAN	reviewed	Proto-oncogene Wnt-3 (Proto-oncogene Int-4 homolog)	WNT3 INT4	Homo sapiens (Human)	355
+A4D1K5	A4D1K5_HUMAN	unreviewed	Smoothened homolog (Drosophila)	SMO hCG_41661 tcag7.374	Homo sapiens (Human)	787
+B2RCZ1	B2RCZ1_HUMAN	unreviewed	cDNA, FLJ96380, highly similar to Homo sapiens frizzled homolog 5 (Drosophila) (FZD5), mRNA		Homo sapiens (Human)	585
+B2R9H9	B2R9H9_HUMAN	unreviewed	cDNA, FLJ94402, highly similar to Homo sapiens frizzled homolog 6 (Drosophila) (FZD6), mRNA		Homo sapiens (Human)	706
+Q59GE5	Q59GE5_HUMAN	unreviewed	Glutamate receptor homolog (Fragment)		Homo sapiens (Human)	1080
+B2RC95	B2RC95_HUMAN	unreviewed	cDNA, FLJ95923, highly similar to Homo sapiens frizzled homolog 1 (Drosophila) (FZD1), mRNA		Homo sapiens (Human)	647
+B3KND5	B3KND5_HUMAN	unreviewed	cDNA FLJ14354 fis, clone Y79AA1001384, highly similar to Monogenic audiogenic seizure susceptibility protein 1 homolog		Homo sapiens (Human)	1451
+O43898	O43898_HUMAN	unreviewed	High-affinity lysophosphatidic acid receptor homolog		Homo sapiens (Human)	376
+Q8TAN2	Q8TAN2_HUMAN	unreviewed	Frizzled homolog 9 (Drosophila)	FZD9	Homo sapiens (Human)	591
+Q6NSL8	Q6NSL8_HUMAN	unreviewed	Frizzled homolog 10 (Drosophila)	FZD10	Homo sapiens (Human)	581
+Q3LTR6	Q3LTR6_CAEEL	unreviewed	Caenorhabditis frizzled homolog protein 2, isoform a (Frizzled homolog)	cfz-2 5D920 F27E11.3	Caenorhabditis elegans	578
+Q9U8U6	Q9U8U6_CAEEL	unreviewed	Caenorhabditis frizzled homolog protein 2, isoform b (Cfz2)	cfz-2 Cfz2 F27E11.3	Caenorhabditis elegans	550
+Q9NL45	Q9NL45_CIOIN	unreviewed	Frizzled homolog	Cifrz	Ciona intestinalis (Transparent sea squirt) (Ascidia intestinalis)	872
+A8PVQ9	A8PVQ9_BRUMA	unreviewed	GnHR receptor homolog, putative	Bm1_35795	Brugia malayi (Filarial nematode worm)	400
+C7BVR5	C7BVR5_9BILA	unreviewed	Putative GnHR receptor homolog	0013D05	Angiostrongylus cantonensis (rat lungworm)	301
+B0CM30	B0CM30_PAPAN	unreviewed	Frizzled homolog 1 (Predicted)	FZD1	Papio anubis (Olive baboon)	649
+Q5QLP6	Q5QLP6_ORYSJ	unreviewed	Os07g0522600 protein (Putative ionotropic glutamate receptor homolog GLR4)	OJ1372_D12.115 Os07g0522600	Oryza sativa subsp. japonica (Rice)	637
+A7KN89	A7KN89_THOBO	unreviewed	Melanocortin 1 receptor	mc1r	Thomomys bottae (Botta's pocket gopher)	310
+A7KNB6	A7KNB6_THOBO	unreviewed	Melanocortin 1 receptor	mc1r	Thomomys bottae (Botta's pocket gopher)	310
+A7KNB7	A7KNB7_THOBO	unreviewed	Melanocortin 1 receptor	mc1r	Thomomys bottae (Botta's pocket gopher)	310
+Q543W9	Q543W9_MOUSE	unreviewed	Putative uncharacterized protein (Retinal pigment epithelium derived rhodopsin homolog, isoform CRA_c)	Rrh mCG_5265	Mus musculus (Mouse)	337
+Q149J3	Q149J3_MOUSE	unreviewed	Frizzled homolog 10 (Drosophila) (MCG51280)	Fzd10 mCG_51280	Mus musculus (Mouse)	582
+Q8K4C8	Q8K4C8_RAT	unreviewed	Frizzled homolog 9 (Drosophila) (Frizzled-9) (Frizzled-like protein 9)	Fzd9 rCG_21444	Rattus norvegicus (Rat)	592
+Q7TS82	Q7TS82_MOUSE	unreviewed	Frizzled homolog 1 (Drosophila) (Putative uncharacterized protein)	Fzd1 mCG_2957	Mus musculus (Mouse)	642
+A7KNC1	A7KNC1_THOBO	unreviewed	Melanocortin 1 receptor	mc1r	Thomomys bottae (Botta's pocket gopher)	310
+A7KNA0	A7KNA0_THOBO	unreviewed	Melanocortin 1 receptor	mc1r	Thomomys bottae (Botta's pocket gopher)	310
+A2RTK9	A2RTK9_MOUSE	unreviewed	Frizzled homolog 8 (Drosophila)	Fzd8 mCG_14527	Mus musculus (Mouse)	685
+Q4VBD5	Q4VBD5_MOUSE	unreviewed	Smoothened (Smoothened homolog (Drosophila))	Smo	Mus musculus (Mouse)	793
+A2AG04	A2AG04_MOUSE	unreviewed	Frizzled homolog 2 (Drosophila)	Fzd2 RP23-57F11.2-001 mCG_21349	Mus musculus (Mouse)	570
+A7KND2	A7KND2_THOBO	unreviewed	Melanocortin 1 receptor	mc1r	Thomomys bottae (Botta's pocket gopher)	310
+Q8K1N6	Q8K1N6_THOTA	unreviewed	Alpha 2B adrenergic receptor (Fragment)	A2AB	Thomomys talpoides (Northern pocket gopher)	406

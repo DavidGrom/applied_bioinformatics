@@ -1,0 +1,5 @@
+#This script is designed to loop through fasta files and apply MSA with muscle
+
+#loop over all the files in the directory where the files are stored
+for i in ~/Desktop/Medbioinfo/applied-bioinformatics/Assignment1/yeast_genes/*.fasta; do
+ muscle -in $i -out $.afa
