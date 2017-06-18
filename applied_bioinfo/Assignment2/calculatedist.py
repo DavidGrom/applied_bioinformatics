@@ -24,7 +24,7 @@ def loop_over_files():
         sequence = ''
     #print names
     #print sequences
-
+    return sequences, names
 
 
 #def read_sequence(filename):
@@ -56,8 +56,42 @@ def loop_over_files():
     #names.append(names)
     #print names
 
-def calculate_nucfreq():
+def calculate_nucfreq(sequences):
     print 'Pass in the sequence and calculate the nucleotide frequency.'
+    #print sequences
+    for seq in sequences:
+        #print seq
+        counta = 0
+        countc = 0
+        countg = 0
+        countt = 0
+        countsum = 0
+        frequencies = []
+        for nucleotide in seq:
+            assert nucleotide in 'ATCGU', 'can not count if not in ATGC!'
+            countsum += 1
+            if nucleotide == 'A':
+                counta += 1
+            elif nucleotide == 'C':
+                countc += 1
+                countsum += 1
+            elif nucleotide == 'G':
+                countg += 1
+            elif nucleotide == 'T':
+                countt += 1
+            else:
+                pass
+        counts = [counta, countt, countc, countg]
+    for count in counts:
+        print countsum
+        print 'count'
+        print count
+        freq = float(count)/countsum
+        print freq
+        frequencies.append(round(freq, 3))
+
+    print countc, countg, counta, countt
+    print frequencies
 
 def calculate_matrix():
     print 'Calculate distance matrix.'
@@ -74,4 +108,5 @@ if __name__ == '__main__':
     args = parser.parse_args()
     parser.print_help()
 
-    loop_over_files()
+    seqs, names = loop_over_files()
+    calculate_nucfreq(seqs)
